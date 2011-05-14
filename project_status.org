@@ -1,0 +1,10 @@
+Tracking my progress through Programming Clojure, using org-mode.
+* First Steps
+** TODO Setup repo
+** TODO Push to github
+** TODO Copy Clojure library to be handy.
+* TODO Read Chapter 2.
+* TODO Read Chapter 3.
+* TODO Read Chapter 4.
+* TODO Read Chapter 5.
+* TODO Read Chapter 6.
