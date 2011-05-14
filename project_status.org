@@ -1,9 +1,12 @@
 Tracking my progress through Programming Clojure, using org-mode.
 * First Steps
-** TODO Setup repo
-** TODO Push to github
-** TODO Copy Clojure library to be handy.
-* TODO Read Chapter 2.
+** DONE Setup repo
+   CLOSED: [2011-05-14 Sat 10:51]
+** DONE Push to github
+   CLOSED: [2011-05-14 Sat 10:51]
+** DONE Copy Clojure library to be handy.
+   CLOSED: [2011-05-14 Sat 10:51]
+* TODO Read Chapter 2. (in progress)
 * TODO Read Chapter 3.
 * TODO Read Chapter 4.
 * TODO Read Chapter 5.
